@@ -1,0 +1,52 @@
+{
+    "QQVGA": {
+        "name": "Quarter Quarter Video Graphics Array",
+        "width": 160,
+        "height": 120
+    },
+    "HQVGA": {
+        "name": "Half Quarter Video Graphics Array",
+        "width": 240,
+        "height": 160
+    },
+    "QVGA": {
+        "name": "Quarter Video Graphics Array",
+        "width": 320,
+        "height": 240
+    },
+    "WQVGA": {
+        "name": "Wide Quarter Video Graphics Array",
+        "width": 400,
+        "height": 240
+    },
+    "HVGA": {
+        "name": "Half Video Graphics Array",
+        "width": 480,
+        "height": 320
+    },
+    "VGA": {
+        "name": "Video Graphics Array",
+        "width": 640,
+        "height": 480
+    },
+    "WVGA": {
+        "name": "Wide Video Graphics Array",
+        "width": 768,
+        "height": 480
+    },
+    "CGA": {
+        "name": "Color Graphics Adapter",
+        "width": 320,
+        "height": 200
+    },
+    "CIF": {
+        "name": "Common Intermediate Format",
+        "width": 384,
+        "height": 288
+    },
+    "PAL-43": {
+        "name": "Phase Alternating Line",
+        "width": 768,
+        "height": 576
+    }
+}

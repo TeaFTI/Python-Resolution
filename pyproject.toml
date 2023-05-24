@@ -1,0 +1,34 @@
+[project]
+name = "resolution"
+version = "0.0.1"
+description = "Resolution."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { file = "LICENSE" }
+keywords = [ "resolution", "development" ]
+authors = [
+    { name="Yan Kuang", email="YTKme@Outlook.com" },
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "requests"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/YTKme/Python-Resolution"
+"Bug Tracker" = "https://github.com/YTKme/Python-Resolution/issues"
+
+[tool.setuptools]
+package-data = { "" = ["*.json"] }
