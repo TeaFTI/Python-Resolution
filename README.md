@@ -1,2 +1,2 @@
-# Python-Resolution
+# Python Resolution
 Python Resolution
