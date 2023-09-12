@@ -7,7 +7,7 @@ requires-python = ">=3.7"
 license = { file = "LICENSE" }
 keywords = [ "resolution", "development" ]
 authors = [
-    { name="Yan Kuang", email="YTKme@Outlook.com" },
+    { name="TeaFTI", email="TeaFTI@Gmail.com" },
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -27,8 +27,11 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/YTKme/Python-Resolution"
-"Bug Tracker" = "https://github.com/YTKme/Python-Resolution/issues"
+"Homepage" = "https://github.com/TeaFTI/Python-Resolution"
+"Bug Tracker" = "https://github.com/TeaFTI/Python-Resolution"
 
-[tool.setuptools]
-package-data = { "" = ["*.json"] }
+[tool.setuptools.package-data]
+resolution = [
+    "*.csv",
+    "*.json"
+]
