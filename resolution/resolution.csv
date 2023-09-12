@@ -1,0 +1,51 @@
+Standard / Designation,Unique Name,Usage,Name,Width,Height
+QQVGA,QQVGA,,Quarter Quarter Video Graphics Array,160,120
+HQVGA,HQVGA,,Half Quarter Video Graphics Array,240,160
+QVGA,QVGA,,Quarter Video Graphics Array,320,240
+WQVGA,WQVGA,,Wide Quarter Video Graphics Array,400,240
+HVGA,HVGA,,Half Video Graphics Array,480,320
+VGA,VGA,,Video Graphics Array,640,480
+WVGA,WVGA,,Wide Video Graphics Array,768,480
+CGA,CGA,,Color Graphics Adapter,640,200
+CIF,CIF,,Common Intermediate Format,352,288
+PAL-43,PAL_43,,Phase Alternating Line,768,576
+EGA,EGA,,Enhanced Graphics Adapter,640,350
+MDA,MDA,,Monochrome Display Adapter,720,350
+MCGA,MCGA,,Multi-Color Graphics Array,640,480
+SVGA,SVGA,,Super Video Graphics Array,800,600
+HD,HD,,High Definition,1280,720
+XGA,XGA,,eXtended Graphics Array,1024,768
+WXGA,WXGA,,Widescreen eXtended Graphics Array,1366,768
+XGA+,XGA_Plus,,eXtended Graphics Array Plus,1152,864
+WXGA+,WXGA_Plus,,Widescreen eXtended Graphics Array Plus,1440,900
+HD+,HD_Plus,,High Definition Plus,1600,900
+SXGA,SXGA,,Super Extended Graphics Array,1280,1024
+SXGA+,SXGA_Plus,,Super Extended Graphics Array Plus,1400,1050
+WSXGA+,WSXGA_Plus,,Widescreen Super Extended Graphics Array Plus,1680,1050
+FHD,FHD,,Full High Definition,1920,1080
+DCI 2K,DCI_2K,,Digital Cinema Initiatives 2K,2048,1080
+QWXGA,QWXGA,,Quad Wide Extended Graphics Array,2048,1152
+UXGA,UXGA,,Ultra Extended Graphics Array,1600,1200
+WUXGA,WUXGA,,Widescreen Ultra Extended Graphics Array,1920,1200
+QHD,QHD,,Quad High Definition,2560,1440
+QXGA,QXGA,,Quad eXtended Graphics Array,2048,1536
+WQXGA,WQXGA,,Widescreen Quad eXtended Graphics Array,2560,1600
+UW4K,UW4K,,Ultra-Wide 4K,3840,1600
+QWXGA+,QWXGA+,,Quad Wide eXtended Graphics Array Plus,2880,1800
+QSXGA,QSXGA,,Quad Super eXtended Graphics Array,2560,2048
+WQSXGA,WQSXGA,,Wide Quad Super eXtended Graphics Array,3200,2048
+UHD 4K,UHD_4K,,"Ultra High-Definition, or Quad Full High-Definition ",3840,2160
+DCI 4K,DCI_4K,,Digital Cinema Initiatives 4K,4096,2160
+UW5K,UW5K,,Ultra-Wide 5K,5120,2160
+QUXGA,QUXGA,,Quad Ultra eXtended Graphics Array,3200,2400
+WQUXGA,WQUXGA,,Wide Quad Ultra eXtended Graphics Array,3840,2400
+UHD 5K,UHD_5K,,Ultra High-Definition 5K,5120,2880
+UW8K,UW8K,,Ultra-Wide 8K,7680,3200
+HXGA,HXGA,,Hex (adecatuple) eXtended Graphics Array,4096,3072
+WHXGA,WHXGA,,Wide Hex (adecatuple) eXtended Graphics Array,5120,3200
+HSXGA,HSXGA,,Hex (adecatuple) Super eXtended Graphics Array,5120,4096
+WHSXGA,WHSXGA,,Wide Hex (adecatuple) Super eXtended Graphics Array,6400,4096
+UHD 8K,UHD_8K,,Ultra High-Definition 8K (Super Hi-Vision),7680,4320
+UHD 10K,UHD_10K,,Ultra High-Definition 10K,10240,4320
+HUXGA,HUXGA,,Hex (adecatuple) Ultra eXtended Graphics Array,6400,4800
+WHUXGA,WHUXGA,,Wide Hex (adecatuple) Ultra eXtended Graphics Array,7680,4800

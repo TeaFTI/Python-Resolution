@@ -3,7 +3,7 @@ Resolution
 ~~~~~~~~~~
 """
 
-RESOLUTION_FILENAME = 'resolution.json'
+RESOLUTION_FILENAME = 'resolution.csv'
 
 ATTRIBUTE_LIST = []
 
